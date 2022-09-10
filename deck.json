@@ -1,0 +1,5850 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "81ba8aa4-3101-11ed-8b9a-599bb18c5ef7",
+    "deck_config_uuid": "4ea7d936-30f8-11ed-9bbf-2f560b994ad5",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "4ea7d936-30f8-11ed-9bbf-2f560b994ad5",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "promotion_deck": null,
+            "promotion_forbidden_tag": "",
+            "promotion_interval": 0,
+            "promotion_ivl_factor": 1.0,
+            "promotion_required_tag": "",
+            "promotion_tag": "",
+            "promotion_type": "",
+            "replayq": true,
+            "retirement_deck": null,
+            "retirement_delete": false,
+            "retirement_interval": 0,
+            "retirement_suspend": false,
+            "retirement_tag": "",
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "scheduling_enabled": false,
+            "scheduling_move_factor": 0.1,
+            "scheduling_week": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 40,
+    "extendRev": 0,
+    "media_files": [
+        "google-005328d7-6c3cfa3a-79db470d-b310068f-a34216a8.mp3",
+        "google-02b6d14e-99ce5027-861c9dff-c018f33e-acc99026.mp3",
+        "google-02bb7fe4-329ec584-0da1d147-3233407e-1906909e.mp3",
+        "google-0511722c-ea8abb45-5c5eb1d3-8e9c8589-42b66088.mp3",
+        "google-05774d41-a1e0b913-cc431d25-ade4836a-dfd731cb.mp3",
+        "google-069d931c-d49ce486-b19f228e-57a96e41-304679fc.mp3",
+        "google-0988ec14-aad88c78-24eebef8-a93497c6-8bbfff22.mp3",
+        "google-0b44c791-9309e50f-5390b4c0-1807d30c-dc173303.mp3",
+        "google-0c06f6f8-de5d22ab-d2141100-f130475f-fc43f2cf.mp3",
+        "google-0c5c7bcb-e0f7d05d-be1ece14-9c06fa9e-69910303.mp3",
+        "google-0d18d854-2c31c4a9-6847d033-0bc4c1c4-6cf7f33d.mp3",
+        "google-0e239744-c224b0bd-1290590b-6ff9440f-6d67710c.mp3",
+        "google-0edf2077-2c8cd3ad-1cfcf891-abefaef2-a0c11fe5.mp3",
+        "google-0f39db35-469dc866-2e15e289-9d380a6c-ffa50e8a.mp3",
+        "google-11c0136a-c5fbf9a6-076625f2-052c7599-b148370a.mp3",
+        "google-1411bdbd-0894870a-98668a11-7f17da51-d1a7700e.mp3",
+        "google-1465f6a3-eb2bec64-c4dc770b-1bbbfaba-7b27bd5f.mp3",
+        "google-1621568a-b37f4d33-b1cf5241-dc9c17c6-ecca5422.mp3",
+        "google-1669b321-c86d3e0d-8f863460-ce3d9302-8c465753.mp3",
+        "google-17c8e496-a0aa5937-3fd2c8bc-e93d2c99-861eac8f.mp3",
+        "google-19d89351-2ec7a043-a2908121-cdfc4bb4-a771e3bc.mp3",
+        "google-1a160919-3d2f3afc-bc8009bb-6f3facae-992eaaeb.mp3",
+        "google-1a9c8365-9326e2af-bea70ece-51306d70-4539ff5e.mp3",
+        "google-1c7f9aa4-bd1c8bcd-c3033718-073a253a-7a0780c8.mp3",
+        "google-1cd4c97e-239bd720-83c02f47-18f5f64b-b32c4a9e.mp3",
+        "google-1d9223f7-4d297d1c-49bed289-0e6bde42-3c170427.mp3",
+        "google-1da09f53-713f9fad-e7375269-19df3204-bb3a1af0.mp3",
+        "google-1dc94d14-f9153a05-5286bcb3-9428c1b2-db88997e.mp3",
+        "google-1de64ded-31d1244c-5ee6b89e-161e4e3f-5aa231d1.mp3",
+        "google-1fa58d37-a1286d01-ebe6a85d-c8b08f77-fc9f17ec.mp3",
+        "google-1fd0c06f-b2bdb9ab-debec30b-70fb33ff-ead80fac.mp3",
+        "google-22384208-cc49ee00-2148878b-e07f12d5-bd8dce30.mp3",
+        "google-2250893c-49b02a02-785d45ff-ce9adb5e-4f9fb23f.mp3",
+        "google-2583a15f-f6a5bba0-8f7539ea-9271e524-f82d5899.mp3",
+        "google-259702a4-030de1c8-7b6f5219-8a8e9613-4fe82375.mp3",
+        "google-26d0e21b-5d1410c2-9adc82fb-ff209bb5-c0875a67.mp3",
+        "google-2710e668-bf040b3f-ef814360-9ecf2f2c-f0ca3e02.mp3",
+        "google-27893977-232141a3-cea79c4f-e0f86ed3-50377868.mp3",
+        "google-2a5c897e-d7d1d7dc-92edee20-412fdbf3-a530262b.mp3",
+        "google-2cfbe4d8-f31f0e57-a331843d-026ce39a-07b252f5.mp3",
+        "google-2e6a79a6-69f66952-717dd032-cbcb3c36-43247c49.mp3",
+        "google-2ed6a354-ac2aa299-7b5b8796-349e0a65-6a4c5afc.mp3",
+        "google-2f42f73b-736a6054-e9324267-bc02c95d-b738ddb4.mp3",
+        "google-2f981d26-9e2361da-afc2f5cb-d1e8ac1d-c78fa186.mp3",
+        "google-3135b28c-9fc4b875-0611bf0d-2e289497-3c5fde69.mp3",
+        "google-32d98b19-1669c9e2-2da140b9-eb09cf5b-251f7311.mp3",
+        "google-330633da-65beb3e0-6eccb2ae-cd754b9e-14020cd1.mp3",
+        "google-3539d73f-516aceca-19113a28-abf60307-1d8e4430.mp3",
+        "google-3888723b-4a09f982-9e554d26-1d1398af-b09aaa77.mp3",
+        "google-3c5fcecc-bb681039-0349759c-97d06524-67af508e.mp3",
+        "google-3d118955-bcdeeb05-9025f9ca-52f8b35b-a912f533.mp3",
+        "google-3de41e1b-1f9618bb-a3f3c7c5-86671726-590d56bb.mp3",
+        "google-414ba180-7cc5ee94-0be92bf8-9c0770ce-e7cc124f.mp3",
+        "google-447725ed-b2924b0a-d9323696-eb5a7f61-7a746f9a.mp3",
+        "google-4526386f-6e4004a7-5254792d-ee261adc-d3e6bb6e.mp3",
+        "google-45bb7dd0-b2a0030b-36961fe6-620467f1-bb855e62.mp3",
+        "google-45c7735d-51fc0622-9ff51412-a10781c0-7ebaf820.mp3",
+        "google-45f0dfc9-0d624e9d-c9e4623e-48fd5eb2-bebe05f2.mp3",
+        "google-476b12e1-002f4241-8acf43ff-a64f5f81-bad54405.mp3",
+        "google-4899244a-cd826f3f-050bda7d-6a08f216-c2503ae5.mp3",
+        "google-48cedbc5-2f720d35-51c2b1e8-8d103b73-784c8eb8.mp3",
+        "google-499d01a3-c5665c9b-563e30c9-40d4980e-b02cfe20.mp3",
+        "google-4a35ef6a-838227eb-299eb64c-d1f15bd8-fd298d09.mp3",
+        "google-4a6e344c-4aa9e8fe-db0923f7-785a3d5b-a3502c09.mp3",
+        "google-4bf679c8-9b812466-1d4dd118-87cd96f3-7d709187.mp3",
+        "google-4c49775f-4ae0b9d0-77675ef3-eaab5e0c-636ad8f5.mp3",
+        "google-4e154c7e-8da1c239-024b037c-92933c29-f7546e67.mp3",
+        "google-4e65d592-ebd93182-bb1f5482-b5f8aaec-a4561056.mp3",
+        "google-4eab7e08-9ed45b4d-04a695a7-d7ee1a34-6cda0226.mp3",
+        "google-4f638609-aec15805-e8f2e7cd-79e85b04-7c53b9b1.mp3",
+        "google-4f7cc3b3-c30b228a-ca2345f4-3e4ccb7a-9f0eae4b.mp3",
+        "google-4ffe748a-bced8890-517e8119-6e3dca6d-b839a78d.mp3",
+        "google-5004a11d-bfa09205-45a2b026-714483cd-bce3e8b6.mp3",
+        "google-508b8f4c-b07b60a3-e971ed8e-30f59b8f-6427d55e.mp3",
+        "google-51b33a12-068a9b98-2107c23e-431dfd57-dc82b008.mp3",
+        "google-51ff637f-326f1131-21fca622-bbf36ed3-7f14d02f.mp3",
+        "google-54350908-1c661630-8f036a99-953d68e2-52917efc.mp3",
+        "google-56a724d6-0e1f0244-4cc60262-e1e2a413-8cb16dff.mp3",
+        "google-56ab632a-0b802815-1aaf4dcc-87e149eb-3fd703f7.mp3",
+        "google-57caefc3-4e8be6f6-68ab896f-ff3ed1d0-40f1d8b5.mp3",
+        "google-5825468a-f0ddb1ec-61bbdd21-b73ebc32-167ff9c6.mp3",
+        "google-58b128da-8a9d075e-a03a8f17-71bde02a-b932484e.mp3",
+        "google-5b079414-38b06a66-001de6fc-11b576a2-bbfa71d2.mp3",
+        "google-5b5cb2cc-c4e9fc7c-5efde6b1-d0b442d2-1d3457cc.mp3",
+        "google-5cc00309-142b226e-23eba3da-3aec877f-2a1cda46.mp3",
+        "google-5d022944-66ea8ea7-fd0ba872-2df88358-51de2dab.mp3",
+        "google-5eaef5fe-56549b3c-2e441f36-ede62a61-145085ff.mp3",
+        "google-603e4a40-d6f68417-743c9dad-9b193a1a-e68403d1.mp3",
+        "google-6158c957-9b958ef7-81305391-7fdf8f97-b6752f40.mp3",
+        "google-61cafb14-56aaa103-4aaab7cd-d2389451-f141e89f.mp3",
+        "google-61db075c-6920c281-05a4db7b-ec5efe9a-409e91f5.mp3",
+        "google-628543d4-4f6ef19c-3b82b84d-534f58a4-edbb3e48.mp3",
+        "google-62f7a763-e1ca58bd-29904d2b-e3b0aa60-97cd5968.mp3",
+        "google-637cb409-fcce1739-398e92af-c5ab710d-3200a93a.mp3",
+        "google-6386b85d-91eb0e9e-946612e6-2f8092bf-4087e567.mp3",
+        "google-6569de89-777f785a-c3d4e003-b3f3f33e-43246a28.mp3",
+        "google-6758dcc3-1b41c44c-6bc0c8d5-6787cab4-1a16eea1.mp3",
+        "google-67652e30-29324f59-e54de632-b913697a-2d7d65eb.mp3",
+        "google-688ad77f-0049cebe-565a63e5-a76155d5-3914a06a.mp3",
+        "google-69101c7c-d55cfb1b-e9cf5cee-086750a1-8e7da0f4.mp3",
+        "google-692970ba-afbe89bb-6ec2e213-664cd80f-ce383492.mp3",
+        "google-693544ed-f4c0d771-e5a304fe-e2e9c5bc-6205b901.mp3",
+        "google-69426949-a0021f3e-c5b45b8f-85e68b41-753d483e.mp3",
+        "google-6ac0393e-1cd577d8-8b41f8d0-fb79a894-fcb93bc5.mp3",
+        "google-6b11b673-88f7487e-e3bf5cd8-6b7c1b66-7b76de8f.mp3",
+        "google-6bbb4f3d-e323f04c-bcca6fbb-64fb6c9c-2cc82fbd.mp3",
+        "google-745e3ab9-a08b4cda-3b05a5bf-1899e5a2-9fe44c79.mp3",
+        "google-7723ddbf-0d29a89d-2fd93b7a-34d203d8-c6c54e59.mp3",
+        "google-77bf4c3e-730a0bc0-78bef506-8c49781b-dc55aa1c.mp3",
+        "google-77d4d031-280b294a-484f96e0-862d0627-4a7bf92b.mp3",
+        "google-78203e5a-7efa1049-52c428ce-acc23b76-777dba4f.mp3",
+        "google-78dc2ebc-404f1d46-043954b3-b867c976-943dd3c0.mp3",
+        "google-7d1bacf8-6c2770d9-7fc0381e-33b10d03-a4644dbd.mp3",
+        "google-7e37561d-99ac8244-4f48960f-5a818a32-a32bc79b.mp3",
+        "google-7efafb73-2d7fe045-aefd2aad-b61b127d-5ec93744.mp3",
+        "google-7fcffe7f-8f7ceeca-f7dc45d6-d36b0c1d-69983d0b.mp3",
+        "google-80bc481e-fa6c6dac-a1a3b091-cf0f7eaf-15b107e0.mp3",
+        "google-8166a2d9-d5d42d81-510c6f17-cd9fcd95-7fd01597.mp3",
+        "google-8303ed8b-966d59f1-b25247bf-c9a7f40f-d9bb4ea0.mp3",
+        "google-8507a58d-39bda725-7e77308e-baa731db-9519b7d6.mp3",
+        "google-857f62d9-6e4b891f-af2ea5e0-3606695e-bcf5326d.mp3",
+        "google-857ff1f6-b1c6ff6e-2f03b67d-01bd1114-caee0e09.mp3",
+        "google-8608c7d7-8c4654df-26929eaf-930b4393-0f8a4b82.mp3",
+        "google-87965fbc-ef271e77-ec64f685-0393dfbe-02acb478.mp3",
+        "google-88ce08d6-2b0aecf6-ede83561-acae3376-6d34dd0c.mp3",
+        "google-88eaa857-839120d4-c5f866f4-c45c74ad-b9714618.mp3",
+        "google-898f4a18-9fc6c5ec-ce097151-95ecd367-2f018038.mp3",
+        "google-8a317a0b-3abab8cc-8ac33fae-52de0511-a5155fda.mp3",
+        "google-8c94d1b6-1118adee-3ea77265-a1c243ec-202c7c82.mp3",
+        "google-8cc59048-914f0eb5-bc706899-09e2acc8-8c444849.mp3",
+        "google-8ded00b1-7f0cd77f-f19d0bb9-7aab8c96-c23b56fb.mp3",
+        "google-8e8d5cd7-a98c783f-89035933-8a0981ab-ebc0a0ea.mp3",
+        "google-90708d66-88d2cce5-3d4a14aa-e63e1ff1-52c92752.mp3",
+        "google-91054588-ee0c8e15-11c24959-ccebede1-1a817ac4.mp3",
+        "google-91fc20c6-31b560d1-27351f60-ac01f61a-889eee3c.mp3",
+        "google-93bf5ced-590d5d1c-8f1eb09b-d96ee07c-818f9406.mp3",
+        "google-9415381a-367cb173-75e9840d-01baee19-0e114e66.mp3",
+        "google-967267bc-f26126d0-86c5d1a0-0547d4e5-4c52373b.mp3",
+        "google-96bdbc42-ea4dee81-63b470c4-cbe2df2b-3ecd48f2.mp3",
+        "google-97b73a86-6249ebae-41b1c211-cb7b2d72-f4112960.mp3",
+        "google-984a3982-793ec65c-d2605d9e-238e4ab2-dc0240aa.mp3",
+        "google-9978a9d9-e6b4d215-ee69c598-0c48af94-657e7f82.mp3",
+        "google-9c273d6e-722ed163-500d9ed3-4cde516b-ebd98b1d.mp3",
+        "google-9fb5906c-033ac2fb-e6d069f9-b1b28f06-3a009596.mp3",
+        "google-a17c7332-8dde14eb-c4a96cd3-18172bae-7bae3dea.mp3",
+        "google-a2a7ec72-fa131075-0680fdd2-812a9136-899c50b9.mp3",
+        "google-a3c42052-a260e436-a8fbd0bb-cd31a3ec-b7f756e2.mp3",
+        "google-a4413db2-17d62bd7-3ba0eecd-d0d1f92a-b657fdf7.mp3",
+        "google-a44bbc2c-1b9c6358-797392a7-7f1b9fb3-28244afa.mp3",
+        "google-a5fbe8d8-7b790312-2b46b125-7b05cdc0-6a9e3a2a.mp3",
+        "google-a6cb1ec4-7b5e6d59-6ec60f0b-cf5f4bc4-7e112ec2.mp3",
+        "google-a95825b7-235479dc-a3858f3e-40e6c98f-c1b77ffa.mp3",
+        "google-abd7c37e-6e1b0c32-cfc18c7e-04ddfc90-ee7ab912.mp3",
+        "google-acda33c9-771384f3-aa20e06e-3bc9a93c-0d6d2564.mp3",
+        "google-ace6d636-21121cce-c3579619-fa8e1035-2a46950f.mp3",
+        "google-ad2a6c09-1e2c7d69-bfc6c967-d369e450-1d6b7624.mp3",
+        "google-adf82475-49e4cc65-367301ae-c141ff17-831e61f4.mp3",
+        "google-b4b5804b-4cca10dd-c0dced9a-154f28d8-bf3492f9.mp3",
+        "google-b4f73b2a-531ca7dd-a533001f-fb545545-0875d326.mp3",
+        "google-b530f23a-aff421dd-b01b23f0-b1323d28-3df961a1.mp3",
+        "google-b645f85a-f4695952-b07efaba-3fac929a-fe9e9553.mp3",
+        "google-b8afa522-643d5d5c-ced48cf7-ebcb67d7-b1055ea3.mp3",
+        "google-b958d488-b20e1854-72031da5-bc272dee-a6e4e6e4.mp3",
+        "google-ba310812-2afa47ef-256eb9c1-86c0329f-6e1a6640.mp3",
+        "google-ba67c681-acace1a5-18a98cc7-151da771-113012d4.mp3",
+        "google-bc10a1e2-99acfc31-a499d4e4-f25848b2-ea9242ed.mp3",
+        "google-bf139ea4-ebd9924b-69b6a7ad-22782af7-e6fbca51.mp3",
+        "google-c018db34-27bc7b91-6874d8bb-258e6b4f-f5961af4.mp3",
+        "google-c16e1102-eb8531e3-5214a5e0-dfe9daf9-ac72b47e.mp3",
+        "google-c56c583e-9d61c696-7b15506b-36286234-87561dd1.mp3",
+        "google-c77ba162-b288835b-2c6d5ca1-4e4fdae1-c6b1ace3.mp3",
+        "google-c8138a80-7fd27d2c-76cfd348-77ea0cb1-4299ce4d.mp3",
+        "google-c9e3884c-08eb3b76-b7b3c124-c59cda47-b9b06020.mp3",
+        "google-ca73c4e5-ca811a3e-21d5e4c2-27fad48a-3d672c90.mp3",
+        "google-cbffb5d8-4f3072a9-97760dd3-0d2e3975-8421e354.mp3",
+        "google-cc9ca012-f75a3902-7b9f3697-cb862a69-4a733461.mp3",
+        "google-cd8dff41-73ce5526-8001f18b-5f65e1b8-79c01e8b.mp3",
+        "google-cfc3b98a-770650e4-c23a0b66-09a312e4-21ed0cf4.mp3",
+        "google-d19dd469-0ccc80c8-fe589033-42a861e8-72bda10b.mp3",
+        "google-d3f26a87-fae8df2e-ad3e9720-d0481025-da74ef16.mp3",
+        "google-d4de9281-c65a48a1-8cc0d06a-674bf5ea-bba02c8e.mp3",
+        "google-d547b5e2-7ef9d6cf-0ce6f134-cf52c9bb-62b42d10.mp3",
+        "google-d56a5668-ccc25a8d-8c8c8446-d9482d15-3bf6b7fd.mp3",
+        "google-d5cea53f-8a16e402-f5114df1-a5bd2e59-3e3e03a4.mp3",
+        "google-d60de3a8-49d4dccc-1df83919-6517b2d1-862ad914.mp3",
+        "google-d706f406-62e1c129-9f112b06-c5cfa91e-f937ddb9.mp3",
+        "google-d80df130-5b630d18-0e01fb2e-17bac32e-f9d2ceb0.mp3",
+        "google-d8ac9a01-d06d6270-7614ef80-5009fc0b-4657f603.mp3",
+        "google-d8d8d2aa-872bc5cf-83699aac-b7725100-9706d652.mp3",
+        "google-da43a808-271ef35b-362615c5-b74358b4-d444154b.mp3",
+        "google-daf7b7df-65e9c1f7-6c89eb26-1c1343a6-cb621a44.mp3",
+        "google-db944917-973a4185-a56db0ed-73e28941-f5a7bd97.mp3",
+        "google-dd3483a2-e2a7dd0e-1a1d5985-be57f045-05e35489.mp3",
+        "google-ddb9862b-444e9f0b-6a3785f7-c753a86b-10c055ae.mp3",
+        "google-de66f9b5-b4587396-ea9c4897-d7d9db4c-8621ada9.mp3",
+        "google-df14ad92-7df81934-a8081661-a173faad-187c6ec4.mp3",
+        "google-e066c53c-b6195448-0921f177-1178a80e-89275814.mp3",
+        "google-e3ac9070-7922eb5e-1075eb2d-26cc7224-1ed1c160.mp3",
+        "google-e3c3d2e9-caa3ac96-f4ebb149-96c10930-e7f24693.mp3",
+        "google-e4f253f3-2edaec2d-2d3a7d5e-5f128b86-e1b78ef9.mp3",
+        "google-e71f11dd-b9da32fa-eabd9fa4-dc305f97-a8cc3a3a.mp3",
+        "google-e74959d6-319a82e4-7362f910-e36e5f20-2f49d0be.mp3",
+        "google-e8254388-220a528d-87cb2192-d82c10fa-2860aa28.mp3",
+        "google-e8f70220-86cf080d-5ddf77ba-94a4a3fb-2c23cda1.mp3",
+        "google-e9a38ef3-ac3a2937-2482102e-f277b57f-ce9ba074.mp3",
+        "google-eb09673d-5a30070e-ac6fd62a-02af09a7-c5eb699c.mp3",
+        "google-ec0704ae-7e181d9d-51415bee-08c50f46-b4007b0f.mp3",
+        "google-ef68cc9f-9233913d-4b938cb2-30d79d69-c7e66f00.mp3",
+        "google-efed1acd-47d9db75-ba41af12-a50959f8-280a18d4.mp3",
+        "google-f143aff1-d6a4fb0f-a76b550b-936a8084-592b667b.mp3",
+        "google-f19cacc4-525fc98f-84eb1b90-7e8d8b93-5b601e00.mp3",
+        "google-f1c11d13-84dadaef-edddd898-1dfa52f4-31192bc4.mp3",
+        "google-f3472b75-d0c38890-05c877e5-c914b362-9a22e7db.mp3",
+        "google-f3841baf-4ec55fdf-67dafb0a-2963b94d-ad683dcc.mp3",
+        "google-f46aca43-c9906d51-bcfd2b8b-b92eedc4-ecea00ff.mp3",
+        "google-f61ff746-f8bb7b77-d2b87f24-39f08b8a-993eaef8.mp3",
+        "google-f7fd329a-96100b98-a7c7252c-1657f7c5-27c4e6d9.mp3",
+        "google-f86e7b5d-3015fdb4-9ea7a417-bacb93f8-dc577155.mp3",
+        "google-f9caa072-ed4e8c6d-925243f6-78f0216a-d9747ddd.mp3",
+        "google-fac12f95-de8fb0cf-c7bfd499-ebc71275-0416aed5.mp3",
+        "google-fadc7dd0-f4ded45f-9e9bbb65-d4be99f7-560d6fa0.mp3",
+        "google-fbbcb157-683f9746-e97ab505-a2502386-d39ed661.mp3",
+        "google-fc0c58e3-6897c71c-635a289f-6205bc65-95fe8c1a.mp3",
+        "google-fcdc78a4-bf02e738-2bfe02bb-9015cb69-3728e8f8.mp3",
+        "google-fe6a0405-2e8b0c5f-9181318f-f766a171-6cb46819.mp3"
+    ],
+    "name": "zhongwen",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic (type in the answer)",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0,
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{Front}}\n\n<hr id=answer>\n\n{{type:Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}\n\n{{type:Back}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "我",
+                "I/me/my [sound:google-3539d73f-516aceca-19113a28-abf60307-1d8e4430.mp3]"
+            ],
+            "guid": "fo&FX<lr8,",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "i/me/my",
+                "我"
+            ],
+            "guid": "Kc#bTcG}!Q",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "的",
+                "of&nbsp;<strong>/</strong>&nbsp;~'s (possessive particle)&nbsp; [sound:google-dd3483a2-e2a7dd0e-1a1d5985-be57f045-05e35489.mp3]"
+            ],
+            "guid": "PAXEhQ^o`%",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "好",
+                "good/hello [sound:google-9415381a-367cb173-75e9840d-01baee19-0e114e66.mp3]"
+            ],
+            "guid": "DzKZ`6II;j",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "good/hello",
+                "好"
+            ],
+            "guid": "yv()021WLb",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "of&nbsp;<strong>/</strong>&nbsp;~'s (possessive particle)",
+                "的"
+            ],
+            "guid": "f|2Yj!yX5N",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "朋友",
+                "friend [sound:google-69426949-a0021f3e-c5b45b8f-85e68b41-753d483e.mp3]"
+            ],
+            "guid": "CtHMZKs.uk",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "名字",
+                "name [sound:google-87965fbc-ef271e77-ec64f685-0393dfbe-02acb478.mp3]"
+            ],
+            "guid": "I&up8>YrU#",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "name",
+                "名字"
+            ],
+            "guid": "C_oAt8]lPa",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "friend（中文）",
+                "朋友"
+            ],
+            "guid": "o9U06tqAO$",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to be called",
+                "叫"
+            ],
+            "guid": "dc{[E46z-[",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "叫",
+                "to be called [sound:google-efed1acd-47d9db75-ba41af12-a50959f8-280a18d4.mp3]"
+            ],
+            "guid": "vU,X+W:%UO",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "他",
+                "he [sound:google-5cc00309-142b226e-23eba3da-3aec877f-2a1cda46.mp3]"
+            ],
+            "guid": "M)d:r&=eNA",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "he（中文）",
+                "他"
+            ],
+            "guid": "p@P-v08b3",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to like",
+                "喜欢"
+            ],
+            "guid": "I&>-YP@Px{",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "喜欢",
+                "to like [sound:google-7efafb73-2d7fe045-aefd2aad-b61b127d-5ec93744.mp3]"
+            ],
+            "guid": "C6`q4r0eS_",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "喝",
+                "to drink [sound:google-e8f70220-86cf080d-5ddf77ba-94a4a3fb-2c23cda1.mp3]"
+            ],
+            "guid": "qi*#2&77+P",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to drink",
+                "喝"
+            ],
+            "guid": "n3kDEGL`&E",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "酒",
+                "alcoholic beverage [sound:google-b4f73b2a-531ca7dd-a533001f-fb545545-0875d326.mp3]"
+            ],
+            "guid": "s3kZ{2W_+g",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "alcoholic beverage",
+                "酒"
+            ],
+            "guid": "r-`G`L$7=&",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to exercise",
+                "运动"
+            ],
+            "guid": "fW{;E[w8?Z",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "运动",
+                "to exercise [sound:google-bf139ea4-ebd9924b-69b6a7ad-22782af7-e6fbca51.mp3]"
+            ],
+            "guid": "i.Q=v46%E(",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "小学",
+                "elementary school [sound:google-c77ba162-b288835b-2c6d5ca1-4e4fdae1-c6b1ace3.mp3]"
+            ],
+            "guid": "l73L:XT=w#",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "elementary school",
+                "小学"
+            ],
+            "guid": "hf{Rh$?jS;",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "和",
+                "and/with/union [sound:google-abd7c37e-6e1b0c32-cfc18c7e-04ddfc90-ee7ab912.mp3]"
+            ],
+            "guid": "J9urbVaki.",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "and/with/union",
+                "和"
+            ],
+            "guid": "Ph&A,V56Ou",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "middle school",
+                "中学"
+            ],
+            "guid": "f{oe<D]$uj",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "中学",
+                "middle school [sound:google-7d1bacf8-6c2770d9-7fc0381e-33b10d03-a4644dbd.mp3]"
+            ],
+            "guid": "r`KH]De/_$",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "们",
+                "<table><tbody><tr><td><div>plural marker for pronouns, and nouns referring to individuals</div></td><td></td></tr></tbody></table>[sound:google-069d931c-d49ce486-b19f228e-57a96e41-304679fc.mp3]"
+            ],
+            "guid": "lyOHI`y|l&",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<table><tbody><tr><td><div>plural marker for pronouns, and nouns referring to individuals</div></td><td></td></tr></tbody></table><br>",
+                "们"
+            ],
+            "guid": "Qw!m]:J[@D",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "all&nbsp;<strong>/</strong>&nbsp;both&nbsp;<strong>/</strong>&nbsp;entirely",
+                "都"
+            ],
+            "guid": "vu%!z92?D",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "都",
+                "all/both/entirely [sound:google-4f7cc3b3-c30b228a-ca2345f4-3e4ccb7a-9f0eae4b.mp3]"
+            ],
+            "guid": "s(-2IA4^~.",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "是",
+                "is<strong>/</strong>are<strong>/</strong>am<strong>/</strong>yes<strong>/</strong>to be [sound:google-1a160919-3d2f3afc-bc8009bb-6f3facae-992eaaeb.mp3]"
+            ],
+            "guid": "lh4hN9sfI]",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "is<strong>/</strong>are<strong>/</strong>am<strong>/</strong>yes<strong>/</strong>to be",
+                "是"
+            ],
+            "guid": "J/,KqEnR7F",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "one<strong>/</strong>1<strong>/</strong>single",
+                "一"
+            ],
+            "guid": "DZJ[@V6:tX",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "一",
+                "one/1/single [sound:google-0e239744-c224b0bd-1290590b-6ff9440f-6d67710c.mp3]"
+            ],
+            "guid": "C>GSNYPd[|",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "个",
+                "<table><tbody><tr><td><div>classifier for people or objects in general</div></td><td></td></tr></tbody></table><br> [sound:google-1669b321-c86d3e0d-8f863460-ce3d9302-8c465753.mp3]"
+            ],
+            "guid": "HVs-|MU^9e",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<table><tbody><tr><td><div>classifier for people or objects in general</div></td><td></td></tr></tbody></table><br>",
+                "个"
+            ],
+            "guid": "BzUz{I<]c=",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "classifier for groups of people",
+                "班"
+            ],
+            "guid": "I=~3P!lU!X",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "班",
+                "classifier for groups of people [sound:google-a2a7ec72-fa131075-0680fdd2-812a9136-899c50b9.mp3]"
+            ],
+            "guid": "P`oxnGt9C^",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "同学",
+                "classmate [sound:google-eb09673d-5a30070e-ac6fd62a-02af09a7-c5eb699c.mp3]"
+            ],
+            "guid": "c+Dxysa,Hv",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "classmate",
+                "同学"
+            ],
+            "guid": "ybw@&x$uV~",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "university",
+                "大学"
+            ],
+            "guid": "oO0A){.L?K",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "大学",
+                "university [sound:google-1dc94d14-f9153a05-5286bcb3-9428c1b2-db88997e.mp3]"
+            ],
+            "guid": "BMe9GnL*&3",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "不",
+                "(negative prefix)<strong>/</strong>not<strong>/</strong>no [sound:google-447725ed-b2924b0a-d9323696-eb5a7f61-7a746f9a.mp3]"
+            ],
+            "guid": "iG,t%>h@:X",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "(negative prefix)<strong>/</strong>not<strong>/</strong>no",
+                "不"
+            ],
+            "guid": "AO3Is{*ACZ",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "located) at&nbsp;<strong>/</strong>&nbsp;(to be) in&nbsp;<strong>/</strong>&nbsp;to exist&nbsp;<strong>/</strong>&nbsp;in the middle of doing sth&nbsp;<strong>/</strong>&nbsp;(indicating an action in progress)",
+                "在"
+            ],
+            "guid": "z?s$q+JDp;",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "在",
+                "located) at&nbsp;<strong>/</strong>&nbsp;(to be) in&nbsp;<strong>/</strong>&nbsp;to exist&nbsp;<strong>/</strong>&nbsp;in the middle of doing sth&nbsp;<strong>/</strong>&nbsp;(indicating an action in progress) [sound:google-ace6d636-21121cce-c3579619-fa8e1035-2a46950f.mp3]"
+            ],
+            "guid": "A[0S)vNhVs",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "学校",
+                "school [sound:google-5d022944-66ea8ea7-fd0ba872-2df88358-51de2dab.mp3]"
+            ],
+            "guid": "Cg-L<lY9>9",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "school",
+                "学校"
+            ],
+            "guid": "bj/dm}xtnO",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "but/however",
+                "但是"
+            ],
+            "guid": "ze639ped{~",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "但是",
+                "but/however [sound:google-57caefc3-4e8be6f6-68ab896f-ff3ed1d0-40f1d8b5.mp3]"
+            ],
+            "guid": "cB+aj:?R]W",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "还",
+                "<table><tbody><tr><td><div>still<strong>/</strong>and also&nbsp;</div></td><td></td></tr></tbody></table><br> [sound:google-acda33c9-771384f3-aa20e06e-3bc9a93c-0d6d2564.mp3]"
+            ],
+            "guid": "rW3-i_.{N%",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "still/and also ",
+                "还"
+            ],
+            "guid": "Bx56B$U>RG",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "城市",
+                "city/town [sound:google-db944917-973a4185-a56db0ed-73e28941-f5a7bd97.mp3]"
+            ],
+            "guid": "eu15yA=BXv",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "city/town",
+                "城市"
+            ],
+            "guid": "vwRsFzD29H",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "life/activity/to live",
+                "生活"
+            ],
+            "guid": "k?,QrXo<xm",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "生活",
+                "life<strong>/</strong>activity<strong>/t</strong>o live [sound:google-1c7f9aa4-bd1c8bcd-c3033718-073a253a-7a0780c8.mp3]"
+            ],
+            "guid": "Nw~+s>LhxP",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "后来",
+                "afterwards/later [sound:google-f19cacc4-525fc98f-84eb1b90-7e8d8b93-5b601e00.mp3]"
+            ],
+            "guid": "b:MES&Xe_9",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "afterwards/later",
+                "后来"
+            ],
+            "guid": "q!e#C,T.S2",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to go/(after a verb of motion indicates movement away from the speaker)&nbsp;<strong>/</strong>&nbsp;(used after certain verbs to indicate detachment or separation)",
+                "去"
+            ],
+            "guid": "h9X2{Il_v-",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "去",
+                "to go/&nbsp;(after a verb of motion indicates movement away from the speaker)&nbsp;<strong>/</strong>&nbsp;(used after certain verbs to indicate detachment or separation) [sound:google-93bf5ced-590d5d1c-8f1eb09b-d96ee07c-818f9406.mp3]"
+            ],
+            "guid": "JJ/zGX<Ts=",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "了",
+                "(completed action marker) [sound:google-ba310812-2afa47ef-256eb9c1-86c0329f-6e1a6640.mp3]"
+            ],
+            "guid": "xS^cH(+l<U",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "(completed action marker)",
+                "了"
+            ],
+            "guid": "E7y0k.)%kP",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to work/to operate",
+                "工作"
+            ],
+            "guid": "E5l$R4N;BE",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "frequently&nbsp;<strong>/</strong>&nbsp;constantly&nbsp;<strong>/</strong>&nbsp;regularly&nbsp;<strong>/</strong>&nbsp;often&nbsp;<strong>/</strong>&nbsp;day-to-day",
+                "经常"
+            ],
+            "guid": "l&@qa(yH|e",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "经常",
+                "frequently&nbsp;<strong>/</strong>&nbsp;constantly&nbsp;<strong>/</strong>&nbsp;regularly&nbsp;<strong>/</strong>&nbsp;often&nbsp;<strong>/</strong>&nbsp;day-to-day [sound:google-d56a5668-ccc25a8d-8c8c8446-d9482d15-3bf6b7fd.mp3]"
+            ],
+            "guid": "I]>_+tX/0m",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to meet/ to see each other",
+                "见面"
+            ],
+            "guid": "pr*_]fGHlw",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "见面",
+                "to meet/ to see each other [sound:google-f46aca43-c9906d51-bcfd2b8b-b92eedc4-ecea00ff.mp3]"
+            ],
+            "guid": "ij>szT#Zts",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "名",
+                "name&nbsp;<strong>/</strong>&nbsp;classifier for people [sound:google-3de41e1b-1f9618bb-a3f3c7c5-86671726-590d56bb.mp3]"
+            ],
+            "guid": "v#1pj/r5]3",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "name&nbsp;<strong>/</strong>&nbsp;classifier for people",
+                "名"
+            ],
+            "guid": "dum2t{g=:m",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "医生",
+                "doctor [sound:google-4e154c7e-8da1c239-024b037c-92933c29-f7546e67.mp3]"
+            ],
+            "guid": "PX9uw^7L?(",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "doctor",
+                "医生"
+            ],
+            "guid": "PGDFp3vW}8",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "工作",
+                "to work&nbsp;<strong>/</strong>&nbsp;(of a machine) to operate&nbsp;<strong>/</strong>&nbsp;job&nbsp;<strong>/</strong>&nbsp;work&nbsp;<strong>/</strong>&nbsp;task [sound:google-32d98b19-1669c9e2-2da140b9-eb09cf5b-251f7311.mp3]"
+            ],
+            "guid": "Dci/W-%R=h",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to work&nbsp;<strong>/</strong>&nbsp;(of a machine) to operate&nbsp;<strong>/</strong>&nbsp;job&nbsp;<strong>/</strong>&nbsp;work&nbsp;<strong>/</strong>&nbsp;task",
+                "工作"
+            ],
+            "guid": "ADh-5=@+;)",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "很",
+                "(adverb of degree)&nbsp;<strong>/</strong>&nbsp;quite&nbsp;<strong>/</strong>&nbsp;very [sound:google-1de64ded-31d1244c-5ee6b89e-161e4e3f-5aa231d1.mp3]"
+            ],
+            "guid": "vnVT+/x>Dc",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "(adverb of degree)&nbsp;<strong>/</strong>&nbsp;quite&nbsp;<strong>/</strong>&nbsp;very",
+                "很"
+            ],
+            "guid": "E?y?=l,uSJ",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "忙",
+                "busy / hurriedly / to hurry / to rush [sound:google-a17c7332-8dde14eb-c4a96cd3-18172bae-7bae3dea.mp3]"
+            ],
+            "guid": "dSaJ~n]%_8",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<table><tbody><tr><td><div>busy&nbsp;<strong>/</strong>&nbsp;hurriedly&nbsp;<strong>/</strong>&nbsp;to hurry&nbsp;<strong>/</strong>&nbsp;to rush</div></td><td></td></tr></tbody></table>",
+                "忙"
+            ],
+            "guid": "c5}9Cq$qxY",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "会",
+                "can (i.e. have the skill, know how to) / likely to / sure to [sound:google-3d118955-bcdeeb05-9025f9ca-52f8b35b-a912f533.mp3]"
+            ],
+            "guid": "lgS`m^;-Km",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "can (i.e. have the skill, know how to) / likely to / sure to",
+                "会"
+            ],
+            "guid": "vA>KRT$jvF",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "做",
+                "to make; to produce / to write; to compose / to do; to engage in [sound:google-7e37561d-99ac8244-4f48960f-5a818a32-a32bc79b.mp3]"
+            ],
+            "guid": "QT1be%wCfo",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to make; to produce / to write; to compose / to do; to engage in",
+                "做"
+            ],
+            "guid": "F.KE*FJTj7",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "饭",
+                "cooked rice / meal [sound:google-9978a9d9-e6b4d215-ee69c598-0c48af94-657e7f82.mp3]"
+            ],
+            "guid": "Ap2J~cGQ22",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "cooked rice / meal",
+                "饭"
+            ],
+            "guid": "l#@Rl~I-ml",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "一般",
+                "ordinary/common/general/generally/in general [sound:google-259702a4-030de1c8-7b6f5219-8a8e9613-4fe82375.mp3]"
+            ],
+            "guid": "Ef}lRC%uX.",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ordinary/common/general/generally/in general",
+                "一般"
+            ],
+            "guid": "vF!?=jQy]k",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "也",
+                "also/too [sound:google-6bbb4f3d-e323f04c-bcca6fbb-64fb6c9c-2cc82fbd.mp3]"
+            ],
+            "guid": "sdjcuQbo]t",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "also/too",
+                "也"
+            ],
+            "guid": "d<&*&0?pIm",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "家",
+                "home/family/noun suffix for a specialist in some activity，corresponding to English -ist, -er, -ary or -ian [sound:google-0d18d854-2c31c4a9-6847d033-0bc4c1c4-6cf7f33d.mp3]"
+            ],
+            "guid": "LM<^D&{<]-",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "home/family/noun suffix for a specialist in some activity, corresponding to English -ist, -er, -ary or -ian",
+                "家"
+            ],
+            "guid": "c47=/1&TF=",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "里",
+                "interior/inside/internal [sound:google-330633da-65beb3e0-6eccb2ae-cd754b9e-14020cd1.mp3]"
+            ],
+            "guid": "Q.sF#*u&CH",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "interior/inside/internal",
+                "里"
+            ],
+            "guid": "u@`J/,HWoo",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "吃",
+                "to eat, to consume&nbsp; [sound:google-d3f26a87-fae8df2e-ad3e9720-d0481025-da74ef16.mp3]"
+            ],
+            "guid": "Kxg-bq_2@2",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to eat/to consume&nbsp;",
+                "吃"
+            ],
+            "guid": "pdN,|DTQ;]",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "下班",
+                "to finish work [sound:google-3c5fcecc-bb681039-0349759c-97d06524-67af508e.mp3]"
+            ],
+            "guid": "D.Z#x[l;f[",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to finish work",
+                "下班"
+            ],
+            "guid": "EdI?Z^z9^M",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "以后",
+                "after/later/in the future [sound:google-c8138a80-7fd27d2c-76cfd348-77ea0cb1-4299ce4d.mp3]"
+            ],
+            "guid": "B<c:#:La2|",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "after/later/in the future",
+                "以后"
+            ],
+            "guid": "kZ$C,5!k6N",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "医院",
+                "hospital [sound:google-4526386f-6e4004a7-5254792d-ee261adc-d3e6bb6e.mp3]"
+            ],
+            "guid": "h4zVIoHxxf",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "hospital",
+                "医院"
+            ],
+            "guid": "lPjakdEVa,",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "旁边",
+                "beside/next to [sound:google-984a3982-793ec65c-d2605d9e-238e4ab2-dc0240aa.mp3]"
+            ],
+            "guid": "NY,,j]^u}C",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "beside/next to",
+                "旁边"
+            ],
+            "guid": "wlTX*@`ICO",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "饭馆",
+                "restaurant [sound:google-628543d4-4f6ef19c-3b82b84d-534f58a4-edbb3e48.mp3]"
+            ],
+            "guid": "q&<}kM8:uJ",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "restaurant",
+                "饭馆"
+            ],
+            "guid": "QvWU2AFA5!",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "同事",
+                "colleague/coworker [sound:google-0edf2077-2c8cd3ad-1cfcf891-abefaef2-a0c11fe5.mp3]"
+            ],
+            "guid": "PDXyJ#^RR0",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "colleague/coworker",
+                "同事"
+            ],
+            "guid": "F.jN^ijK>9",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "告诉",
+                "to inform/to let know [sound:google-8608c7d7-8c4654df-26929eaf-930b4393-0f8a4b82.mp3]"
+            ],
+            "guid": "Du=z$0i_3R",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to inform/to let know",
+                "告诉"
+            ],
+            "guid": "J0H;=a-E}{",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "可以",
+                "can/may/possible [sound:google-61db075c-6920c281-05a4db7b-ec5efe9a-409e91f5.mp3]"
+            ],
+            "guid": "Mj&F%jzt|v",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "can/may/possible",
+                "可以"
+            ],
+            "guid": "<B{A<CID<",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "用",
+                "to use/to employ/to have to [sound:google-4eab7e08-9ed45b4d-04a695a7-d7ee1a34-6cda0226.mp3]"
+            ],
+            "guid": "pe[#^%SDnc",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to use/to employ/to have to",
+                "用"
+            ],
+            "guid": "hrs~W0g>Sq",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "手机",
+                "cellphone [sound:google-4bf679c8-9b812466-1d4dd118-87cd96f3-7d709187.mp3]"
+            ],
+            "guid": "wV9aQQtYwM",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "cellphone",
+                "手机"
+            ],
+            "guid": "G?ru0ci96>",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "点",
+                "dot/point/can be use metaphorically as a bit/ to order food [sound:google-56a724d6-0e1f0244-4cc60262-e1e2a413-8cb16dff.mp3]"
+            ],
+            "guid": "Qs&c*~Zw1|",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dot/point/can be use metaphorically as a bit/ to order food",
+                "点"
+            ],
+            "guid": "H]L^<#,a*K",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "外卖",
+                "to go/takeout (food) [sound:google-78dc2ebc-404f1d46-043954b3-b867c976-943dd3c0.mp3]"
+            ],
+            "guid": "ENiN>MWEFI",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to go/takeout (food)",
+                "外卖"
+            ],
+            "guid": "O)OnmH[Y@W",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "又",
+                "again [sound:google-e71f11dd-b9da32fa-eabd9fa4-dc305f97-a8cc3a3a.mp3]"
+            ],
+            "guid": "ldT[!,#bUf",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "again",
+                "又"
+            ],
+            "guid": "u!<<$4*PjV",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "方便",
+                "convenient/suitable/to make things easy [sound:google-bc10a1e2-99acfc31-a499d4e4-f25848b2-ea9242ed.mp3]"
+            ],
+            "guid": "lGB:P`G{o|",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "convenient/suitable/to make things easy",
+                "方便"
+            ],
+            "guid": "m47[x:pwg[",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "便宜",
+                "cheap [sound:google-476b12e1-002f4241-8acf43ff-a64f5f81-bad54405.mp3]"
+            ],
+            "guid": "q<>O70/(u|",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "cheap/inexpensive/small advantages",
+                "便宜"
+            ],
+            "guid": "i*O*d@Ntqw",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "试",
+                "to try/to experiment [sound:google-8507a58d-39bda725-7e77308e-baa731db-9519b7d6.mp3]"
+            ],
+            "guid": "rX7z;Fdl]O",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "星期",
+                "week [sound:google-d706f406-62e1c129-9f112b06-c5cfa91e-f937ddb9.mp3]"
+            ],
+            "guid": "Q2t<?+bUWw",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "week",
+                "星期"
+            ],
+            "guid": "Hs?jIaP0$I",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "感觉",
+                "to feel/feeling/sense [sound:google-2f981d26-9e2361da-afc2f5cb-d1e8ac1d-c78fa186.mp3]"
+            ],
+            "guid": "IT$6{JmYr)",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to feel/feeling/sense",
+                "感觉"
+            ],
+            "guid": "F>zbETq|Z!",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "太",
+                "too (much)/extremely/greatest/highest [sound:google-1fd0c06f-b2bdb9ab-debec30b-70fb33ff-ead80fac.mp3]"
+            ],
+            "guid": "Lf8D$.L{u3",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "too (much)/extremely/greatest/highest",
+                "太"
+            ],
+            "guid": "A=DU0Gr!]l",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "现在&nbsp;",
+                "now/at present/at the moment/modern/current [sound:google-1d9223f7-4d297d1c-49bed289-0e6bde42-3c170427.mp3]"
+            ],
+            "guid": "y7S@TX=-WJ",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "now/at present/at the moment/modern/current",
+                "现在"
+            ],
+            "guid": "KoF~$EN}yo",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "每",
+                "every/each [sound:google-857f62d9-6e4b891f-af2ea5e0-3606695e-bcf5326d.mp3]"
+            ],
+            "guid": "b,)*LQO~BS",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "every/each",
+                "每"
+            ],
+            "guid": "gk(4c.qq7H",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "同",
+                "same（thing） [sound:google-693544ed-f4c0d771-e5a304fe-e2e9c5bc-6205b901.mp3]"
+            ],
+            "guid": "tb((uNGLG7",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "东西",
+                "thing/stuff/person [sound:google-603e4a40-d6f68417-743c9dad-9b193a1a-e68403d1.mp3]"
+            ],
+            "guid": "k,@|V!C?A<",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "thing/stuff/person",
+                "东西"
+            ],
+            "guid": "nT37.w#j2b",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "天",
+                "day/sky/heaven [sound:google-1da09f53-713f9fad-e7375269-19df3204-bb3a1af0.mp3]"
+            ],
+            "guid": "s|g<e[,13)",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "day/sky/heaven",
+                "天"
+            ],
+            "guid": "h.*:8U!qkU",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "饺子",
+                "dumplings/pot stickers [sound:google-c018db34-27bc7b91-6874d8bb-258e6b4f-f5961af4.mp3]"
+            ],
+            "guid": "r1IUm=U0R[",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dumplings/pot stickers",
+                "饺子"
+            ],
+            "guid": "tW&g1lql?5",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "昨天",
+                "yesterday [sound:google-ca73c4e5-ca811a3e-21d5e4c2-27fad48a-3d672c90.mp3]"
+            ],
+            "guid": "BiJw<:Z]kc",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "yesterday (中文）",
+                "昨天"
+            ],
+            "guid": "FGzudGNrC+",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "今天",
+                "today [sound:google-77bf4c3e-730a0bc0-78bef506-8c49781b-dc55aa1c.mp3]"
+            ],
+            "guid": "q,:s-s-uo6",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "today",
+                "今天"
+            ],
+            "guid": "GRp0+8h.=P",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "面条",
+                "noodles [sound:google-62f7a763-e1ca58bd-29904d2b-e3b0aa60-97cd5968.mp3]"
+            ],
+            "guid": "yUWiv-}89)",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "noodles",
+                "面条"
+            ],
+            "guid": "rrEvvl]KFW",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "明天",
+                "tomorrow [sound:google-6ac0393e-1cd577d8-8b41f8d0-fb79a894-fcb93bc5.mp3]"
+            ],
+            "guid": "ezZy(HGFAH",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "tomorrow (中文）",
+                "明天"
+            ],
+            "guid": "M#&$Bt<;am",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "三明治",
+                "sandwich [sound:google-fac12f95-de8fb0cf-c7bfd499-ebc71275-0416aed5.mp3]"
+            ],
+            "guid": "lKo_.B8rC_",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sandwich",
+                "三明治"
+            ],
+            "guid": "u-;r6<$cv,",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "幸福",
+                "happy/blessed/happiness [sound:google-8166a2d9-d5d42d81-510c6f17-cd9fcd95-7fd01597.mp3]"
+            ],
+            "guid": "pHneNm-@Nj",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "happy/blessed/happiness",
+                "幸福"
+            ],
+            "guid": "zWqLJ:>m!o",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "下",
+                "down/below/later/next/to arrive at (a decision, conclusion etc) [sound:google-61cafb14-56aaa103-4aaab7cd-d2389451-f141e89f.mp3]"
+            ],
+            "guid": "l2!pv+LGnR",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "down/below/later/next/to arrive at (a decision, conclusion etc)",
+                "下"
+            ],
+            "guid": "rS-=c2lAV-",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "月",
+                "moon/month [sound:google-9fb5906c-033ac2fb-e6d069f9-b1b28f06-3a009596.mp3]"
+            ],
+            "guid": "j)N;%DO]Lv",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "moon/month",
+                "月"
+            ],
+            "guid": "hDJ>:zYxDA",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "想",
+                "to think (with effort), to miss, to want [sound:google-daf7b7df-65e9c1f7-6c89eb26-1c1343a6-cb621a44.mp3]"
+            ],
+            "guid": "eN(pUaI#-)",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to think (with effort), to miss, to want",
+                "想"
+            ],
+            "guid": "xK1w)#WoE$",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "旅游",
+                "trip/journey/travel [sound:google-cd8dff41-73ce5526-8001f18b-5f65e1b8-79c01e8b.mp3]"
+            ],
+            "guid": "uUg%$7A#Q2",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "trip/journey/travel",
+                "旅游"
+            ],
+            "guid": "gr2yXWm3hc",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "没",
+                "negative prefix for verbs [sound:google-90708d66-88d2cce5-3d4a14aa-e63e1ff1-52c92752.mp3]"
+            ],
+            "guid": "b>~mJ-V~JL",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "negative prefix for verbs",
+                "没"
+            ],
+            "guid": "eN,=Rj?s-`",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "哪儿",
+                "where [sound:google-02b6d14e-99ce5027-861c9dff-c018f33e-acc99026.mp3]"
+            ],
+            "guid": "s|5ZBkkaRM",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "where? (中文）",
+                "哪儿"
+            ],
+            "guid": "HIjJd`q%s4",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "觉得",
+                "to think/to feel [sound:google-5b079414-38b06a66-001de6fc-11b576a2-bbfa71d2.mp3]"
+            ],
+            "guid": "pj_5Ttqz*8",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to think/to feel",
+                "觉得"
+            ],
+            "guid": "wZnmbUL]h.",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "北方",
+                "north [sound:google-f3841baf-4ec55fdf-67dafb0a-2963b94d-ad683dcc.mp3]"
+            ],
+            "guid": "iZg*x%`JX;",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "north",
+                "北方"
+            ],
+            "guid": "i:R)?M^ldZ",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "好玩",
+                "amusing/fun/interesting [sound:google-5004a11d-bfa09205-45a2b026-714483cd-bce3e8b6.mp3]"
+            ],
+            "guid": "Bl=](ut2,q",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "amusing/fun/interesting",
+                "好玩"
+            ],
+            "guid": "w!Wd8OK)-}",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "冷",
+                "cold [sound:google-45c7735d-51fc0622-9ff51412-a10781c0-7ebaf820.mp3]"
+            ],
+            "guid": "K!E-@mS92{",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "cold",
+                "冷"
+            ],
+            "guid": "ul,W.=;Brc",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "南方",
+                "south [sound:google-a4413db2-17d62bd7-3ba0eecd-d0d1f92a-b657fdf7.mp3]"
+            ],
+            "guid": "IDsb6p&%:&",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "south",
+                "南方"
+            ],
+            "guid": "QsR/2@6KH/",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "一些",
+                "some/few/a little [sound:google-5825468a-f0ddb1ec-61bbdd21-b73ebc32-167ff9c6.mp3]"
+            ],
+            "guid": "d|;0/fhNKf",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "some/few/a little",
+                "一些"
+            ],
+            "guid": "FJ<15v)*jg",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "热",
+                "to warm up/hot/heat [sound:google-7fcffe7f-8f7ceeca-f7dc45d6-d36b0c1d-69983d0b.mp3]"
+            ],
+            "guid": "rReE_|K9ry",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to warm up/hot/heat",
+                "热"
+            ],
+            "guid": "w4JQ:?.]hd",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "时候",
+                "when [sound:google-1621568a-b37f4d33-b1cf5241-dc9c17c6-ecca5422.mp3]"
+            ],
+            "guid": "v,Aq1*=4A?",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "when",
+                "时候"
+            ],
+            "guid": "D[[.B^EE6j",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "水果",
+                "fruit [sound:google-6569de89-777f785a-c3d4e003-b3f3f33e-43246a28.mp3]"
+            ],
+            "guid": "q$P:JzfloA",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fruit",
+                "水果"
+            ],
+            "guid": "x>G1{_`7C!",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "面包",
+                "bread [sound:google-1cd4c97e-239bd720-83c02f47-18f5f64b-b32c4a9e.mp3]"
+            ],
+            "guid": "hU?9)M#:r9",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "bread",
+                "面包"
+            ],
+            "guid": "p@.U29E%[c",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "电脑",
+                "computer [sound:google-d8ac9a01-d06d6270-7614ef80-5009fc0b-4657f603.mp3]"
+            ],
+            "guid": "h>C7pCzebB",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "computer （中文）",
+                "电脑"
+            ],
+            "guid": "EY;dEdD;!K",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "地图",
+                "map [sound:google-8e8d5cd7-a98c783f-89035933-8a0981ab-ebc0a0ea.mp3]"
+            ],
+            "guid": "P$vqf[Z95&",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "map",
+                "地图"
+            ],
+            "guid": "J#k&V%yT3(",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "带去",
+                "to take [sound:google-91fc20c6-31b560d1-27351f60-ac01f61a-889eee3c.mp3]"
+            ],
+            "guid": "Cu*x5uGB;:",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to take",
+                "带去"
+            ],
+            "guid": "d^S6%l`M-p",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "说",
+                "to speak/to say [sound:google-d4de9281-c65a48a1-8cc0d06a-674bf5ea-bba02c8e.mp3]"
+            ],
+            "guid": "OweYj.2$B4",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to speak/to say",
+                "说"
+            ],
+            "guid": "f]O2J:1oE:",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "应该",
+                "should/must [sound:google-688ad77f-0049cebe-565a63e5-a76155d5-3914a06a.mp3]"
+            ],
+            "guid": "o#79heRVkw",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "should/must",
+                "应该"
+            ],
+            "guid": "PVEKvxLjNP",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "少",
+                "few/less [sound:google-cc9ca012-f75a3902-7b9f3697-cb862a69-4a733461.mp3]"
+            ],
+            "guid": "uuMGik3Emq",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "few/less",
+                "少"
+            ],
+            "guid": "dL$w5x}gm&",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "因为",
+                "because/on account of [sound:google-2710e668-bf040b3f-ef814360-9ecf2f2c-f0ca3e02.mp3]"
+            ],
+            "guid": "sD!@IQL=i`",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "because/on account of",
+                "因为"
+            ],
+            "guid": "b/5Ee)]HN!",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "这",
+                "this/these [sound:google-51b33a12-068a9b98-2107c23e-431dfd57-dc82b008.mp3]"
+            ],
+            "guid": "r&I9.e`Z+H",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "this/these",
+                "这"
+            ],
+            "guid": "s>jtYyZ,=S",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "搬",
+                "to move [sound:google-e3c3d2e9-caa3ac96-f4ebb149-96c10930-e7f24693.mp3]"
+            ],
+            "guid": "t3Up(:vthJ",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to move",
+                "搬"
+            ],
+            "guid": "fzN{Ud0d2-",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "多",
+                "many/much/often/more/in excess [sound:google-17c8e496-a0aa5937-3fd2c8bc-e93d2c99-861eac8f.mp3]"
+            ],
+            "guid": "krPgvukro$",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "many/much/often/more/in excess",
+                "多"
+            ],
+            "guid": "cjnt[vlw+q",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "衣服",
+                "clothes [sound:google-91054588-ee0c8e15-11c24959-ccebede1-1a817ac4.mp3]"
+            ],
+            "guid": "E<]NsjKP9b",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "clothes",
+                "衣服"
+            ],
+            "guid": "o%O/{Av,&n",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "这样",
+                "this kind of/so/this way/like this [sound:google-a5fbe8d8-7b790312-2b46b125-7b05cdc0-6a9e3a2a.mp3]"
+            ],
+            "guid": "bKNt$m=V%7",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "this kind of/so/this way/like this",
+                "这样"
+            ],
+            "guid": "D<;$z9qJ^>",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "穿",
+                "to wear/to pierce&nbsp; [sound:google-77d4d031-280b294a-484f96e0-862d0627-4a7bf92b.mp3]"
+            ],
+            "guid": "jWF?;d:DEC",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to wear/to pierce ",
+                "穿"
+            ],
+            "guid": "Aen2MhDoT*",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "漂亮",
+                "pretty/beautiful [sound:google-8c94d1b6-1118adee-3ea77265-a1c243ec-202c7c82.mp3]"
+            ],
+            "guid": "P9[1R(k7s6",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "pretty/beautiful",
+                "漂亮"
+            ],
+            "guid": "htP$tjFFWs",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "照相",
+                "to take a photograph [sound:google-a95825b7-235479dc-a3858f3e-40e6c98f-c1b77ffa.mp3]"
+            ],
+            "guid": "x4y$pq3j%H",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to take a photograph",
+                "照相"
+            ],
+            "guid": "gSd{iCPwr-",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "去年",
+                "last year [sound:google-d547b5e2-7ef9d6cf-0ce6f134-cf52c9bb-62b42d10.mp3]"
+            ],
+            "guid": "x1E#NS`A&)",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "last year",
+                "去年"
+            ],
+            "guid": "PoyJWXmXa&",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "夏天",
+                "summer [sound:google-ef68cc9f-9233913d-4b938cb2-30d79d69-c7e66f00.mp3]"
+            ],
+            "guid": "o;:[kNb!:k",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "summer",
+                "夏天"
+            ],
+            "guid": "esV{bV36i1",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "来",
+                "come [sound:google-45f0dfc9-0d624e9d-c9e4623e-48fd5eb2-bebe05f2.mp3]"
+            ],
+            "guid": "y{jgs+S$5c",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "come",
+                "来"
+            ],
+            "guid": "i6Ma@)3&KY",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "到",
+                "(verb complement denoting sucessful result of an action) [sound:google-4e65d592-ebd93182-bb1f5482-b5f8aaec-a4561056.mp3]"
+            ],
+            "guid": "iuH<j|{cA4",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "(verb complement denoting sucessful result of an action)",
+                "到"
+            ],
+            "guid": "CR|y2d<`j]",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "中国",
+                "China [sound:google-0b44c791-9309e50f-5390b4c0-1807d30c-dc173303.mp3]"
+            ],
+            "guid": "J{W2c0`f~l",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "china （中文）",
+                "中国"
+            ],
+            "guid": "h{S[T|t)~]",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "已经",
+                "already [sound:google-b4b5804b-4cca10dd-c0dced9a-154f28d8-bf3492f9.mp3]"
+            ],
+            "guid": "uLrqjn!~%C",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "already （中文）",
+                "已经"
+            ],
+            "guid": "m>_m6@x,+,",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "学习",
+                "study [sound:google-02bb7fe4-329ec584-0da1d147-3233407e-1906909e.mp3]"
+            ],
+            "guid": "k(f<=T%wf<",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "vietnamese",
+                "越南语"
+            ],
+            "guid": "fh/4$g0/ps",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "study （中文）",
+                "学习"
+            ],
+            "guid": "QpIMABlSg0",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "越南语",
+                "vietnamese [sound:google-6b11b673-88f7487e-e3bf5cd8-6b7c1b66-7b76de8f.mp3]"
+            ],
+            "guid": "g/XGfGPy@S",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "泰语",
+                "Thai [sound:google-05774d41-a1e0b913-cc431d25-ade4836a-dfd731cb.mp3]"
+            ],
+            "guid": "s50~r;Ac<r",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "thai (中文）",
+                "泰语"
+            ],
+            "guid": "x.6ZJD7&dp",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "快",
+                "quick/soon [sound:google-78203e5a-7efa1049-52c428ce-acc23b76-777dba4f.mp3]"
+            ],
+            "guid": "sW>t0*no43",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "quick/soon",
+                "快"
+            ],
+            "guid": "F=h$d*,MiX",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "结束",
+                "finish/conclude [sound:google-19d89351-2ec7a043-a2908121-cdfc4bb4-a771e3bc.mp3]"
+            ],
+            "guid": "chyaGB?So1",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "finish/conclude",
+                "结束"
+            ],
+            "guid": "GE@jXFD0P>",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "就要",
+                "will/shall/be going to [sound:google-3888723b-4a09f982-9e554d26-1d1398af-b09aaa77.mp3]"
+            ],
+            "guid": "w4,glI|S#D",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "will/shall/be going to",
+                "就要"
+            ],
+            "guid": "BKvSTw{3{E",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日",
+                "question_for_teacher"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "回国 ",
+                "to return to one's home country [sound:google-0988ec14-aad88c78-24eebef8-a93497c6-8bbfff22.mp3]"
+            ],
+            "guid": "GaJv7+J5M9",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to return to one's home country",
+                "回国"
+            ],
+            "guid": "H/ooXSQbDo",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "开始",
+                "to begin/beginning/to start/initial [sound:google-637cb409-fcce1739-398e92af-c5ab710d-3200a93a.mp3]"
+            ],
+            "guid": "jMXym;WrLB",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to begin/beginning/to start/initial",
+                "开始"
+            ],
+            "guid": "s~TzwY:uS)",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "难",
+                "difficult (to...)/problem/difficulty [sound:google-d8d8d2aa-872bc5cf-83699aac-b7725100-9706d652.mp3]"
+            ],
+            "guid": "hO`v[5pY(?",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "difficult (to...)/problem/difficulty",
+                "难"
+            ],
+            "guid": "kj5E+4;S&3",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "中文",
+                "chinese language [sound:google-9c273d6e-722ed163-500d9ed3-4cde516b-ebd98b1d.mp3]"
+            ],
+            "guid": "K0US4zB1uk",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "chinese language",
+                "中文"
+            ],
+            "guid": "n?8Y_IeB.?",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "别人",
+                "others/other people [sound:google-e9a38ef3-ac3a2937-2482102e-f277b57f-ce9ba074.mp3]"
+            ],
+            "guid": "BDE67;R_:6",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "others/other people",
+                "别人"
+            ],
+            "guid": "F(!m:B^*3U",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "交流",
+                "to exchange/communication/interaction [sound:google-e4f253f3-2edaec2d-2d3a7d5e-5f128b86-e1b78ef9.mp3]"
+            ],
+            "guid": "h>]GSP>4~Y",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "甚至",
+                "even [sound:google-857ff1f6-b1c6ff6e-2f03b67d-01bd1114-caee0e09.mp3]"
+            ],
+            "guid": "QEcAc]HN2#",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "even",
+                "甚至"
+            ],
+            "guid": "KjptJ>bGc}",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "看懂",
+                "to understand what one is reading or watching [sound:google-b530f23a-aff421dd-b01b23f0-b1323d28-3df961a1.mp3]"
+            ],
+            "guid": "cG]f:AQY_%",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div><div>to understand what one is reading or watching</div></div>",
+                "看懂"
+            ],
+            "guid": "BAvGqFfS|;",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "电视",
+                "TV [sound:google-ec0704ae-7e181d9d-51415bee-08c50f46-b4007b0f.mp3]"
+            ],
+            "guid": "r9JmWcX+{a",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "TV",
+                "电视"
+            ],
+            "guid": "F:9~pFVXVa",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "努力",
+                "great effort/to try hard [sound:google-1465f6a3-eb2bec64-c4dc770b-1bbbfaba-7b27bd5f.mp3]"
+            ],
+            "guid": "g2[bmO55yy",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "great effort/to try hard",
+                "努力"
+            ],
+            "guid": "NY:;YN}4Ui",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "老师",
+                "teacher [sound:google-e8254388-220a528d-87cb2192-d82c10fa-2860aa28.mp3]"
+            ],
+            "guid": "Q4hiSj9{#(",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "teacher",
+                "老师"
+            ],
+            "guid": "sY>k>Fu@<B",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "对",
+                "yes/one way relationship(to?) [sound:google-fbbcb157-683f9746-e97ab505-a2502386-d39ed661.mp3]"
+            ],
+            "guid": "j,osC-wI5#",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "yes/one way relationship(to?)",
+                "对"
+            ],
+            "guid": "JER.D8XSnT",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "帮助",
+                "to help [sound:google-26d0e21b-5d1410c2-9adc82fb-ff209bb5-c0875a67.mp3]"
+            ],
+            "guid": "ReePuINTIx",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to help",
+                "帮助"
+            ],
+            "guid": "d^esjPxo?;",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "大",
+                "big/major/great [sound:google-e3ac9070-7922eb5e-1075eb2d-26cc7224-1ed1c160.mp3]"
+            ],
+            "guid": "xQ36<iQ;Y?",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "big/major/great",
+                "大"
+            ],
+            "guid": "A8sp>MYlR/",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "许多",
+                "many/a lot [sound:google-8ded00b1-7f0cd77f-f19d0bb9-7aab8c96-c23b56fb.mp3]"
+            ],
+            "guid": "DMnnByvgq/",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "many/a lot",
+                "许多"
+            ],
+            "guid": "d,BC#sip,5",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "邀请",
+                "invite [sound:google-ddb9862b-444e9f0b-6a3785f7-c753a86b-10c055ae.mp3]"
+            ],
+            "guid": "QQ6o<Sxf]w",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "invite",
+                "邀请"
+            ],
+            "guid": "I_G|JO&%ce",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "兴趣",
+                "interest [sound:google-2250893c-49b02a02-785d45ff-ce9adb5e-4f9fb23f.mp3]"
+            ],
+            "guid": "eGbSOTsy,R",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "interest",
+                "兴趣"
+            ],
+            "guid": "rhUXx3#P3#",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "感兴趣",
+                "to be interested (higher degree) [sound:google-b958d488-b20e1854-72031da5-bc272dee-a6e4e6e4.mp3]"
+            ],
+            "guid": "F<*x|jMg$C",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to be interested (higher degree)",
+                "感兴趣"
+            ],
+            "guid": "DzSj:aagyy",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "希望",
+                "to wish for/hope [sound:google-1a9c8365-9326e2af-bea70ece-51306d70-4539ff5e.mp3]"
+            ],
+            "guid": "eMG3r}15@M",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to wish for/hope",
+                "希望"
+            ],
+            "guid": "sm1Z,i3fbe",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to exchange/communication/interaction",
+                "交流"
+            ],
+            "guid": "n`qLn}i2tv",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "下午",
+                "afternoon [sound:google-fcdc78a4-bf02e738-2bfe02bb-9015cb69-3728e8f8.mp3]"
+            ],
+            "guid": "K592r#eX}{",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "afternoon",
+                "下午"
+            ],
+            "guid": "KY`<~?`TQ$",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "电影",
+                "movie [sound:google-0c5c7bcb-e0f7d05d-be1ece14-9c06fa9e-69910303.mp3]"
+            ],
+            "guid": "rrZZk0F8Be",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "movie",
+                "电影"
+            ],
+            "guid": "qad|G2^i[n",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "电话",
+                "telephone [sound:google-80bc481e-fa6c6dac-a1a3b091-cf0f7eaf-15b107e0.mp3]"
+            ],
+            "guid": "I,6P>q]O:*",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "telephone",
+                "电话"
+            ],
+            "guid": "J,)qXY6!dm",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "一起",
+                "together/with [sound:google-692970ba-afbe89bb-6ec2e213-664cd80f-ce383492.mp3]"
+            ],
+            "guid": "s+M^]lPTK&",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "together/with",
+                "一起"
+            ],
+            "guid": "JAEB+S%,|T",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "身体",
+                "the body/one's health [sound:google-56ab632a-0b802815-1aaf4dcc-87e149eb-3fd703f7.mp3]"
+            ],
+            "guid": "s]3ZF!ICa{",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the body/one's health",
+                "身体"
+            ],
+            "guid": "doirC72LkD",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "舒服",
+                "comfortable/feeling well [sound:google-c16e1102-eb8531e3-5214a5e0-dfe9daf9-ac72b47e.mp3]"
+            ],
+            "guid": "oK.`J]>~>$",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "comfortable/feeling well",
+                "舒服"
+            ],
+            "guid": "u5A7FvOL1O",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "能",
+                "can (be able to) [sound:google-d60de3a8-49d4dccc-1df83919-6517b2d1-862ad914.mp3]"
+            ],
+            "guid": "ja-J3MdUfe",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "can (be able to)",
+                "能"
+            ],
+            "guid": "pI!&K4{[yu",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "只",
+                "only [sound:google-2cfbe4d8-f31f0e57-a331843d-026ce39a-07b252f5.mp3]"
+            ],
+            "guid": "GDP(A&]745",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "only",
+                "只"
+            ],
+            "guid": "N*#{s`n@[i",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "商场",
+                "shopping center/shopping mall&nbsp; [sound:google-adf82475-49e4cc65-367301ae-c141ff17-831e61f4.mp3]"
+            ],
+            "guid": "x?#c{Wmv@I",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "shopping center/shopping mall&nbsp;",
+                "商场"
+            ],
+            "guid": "H5AwD^1>fx",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "买",
+                "to buy [sound:google-b645f85a-f4695952-b07efaba-3fac929a-fe9e9553.mp3]"
+            ],
+            "guid": "Mw2E|,#o~i",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to buy (中文）",
+                "买"
+            ],
+            "guid": "b3sX}o|l]h",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "看见",
+                "to see/to catch sight of [sound:google-48cedbc5-2f720d35-51c2b1e8-8d103b73-784c8eb8.mp3]"
+            ],
+            "guid": "C<SA@9yU:F",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to see/to catch sight of",
+                "看见"
+            ],
+            "guid": "cmI<&Oplfe",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "条",
+                "classifier for long thin things"
+            ],
+            "guid": "oQR$M{lJ$=",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "classifier for long thin things",
+                "条"
+            ],
+            "guid": "H_2&~oG1W*",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "裙子",
+                "dress [sound:google-3135b28c-9fc4b875-0611bf0d-2e289497-3c5fde69.mp3]"
+            ],
+            "guid": "J5b?nR_#9Q",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "白色",
+                "white [sound:google-6158c957-9b958ef7-81305391-7fdf8f97-b6752f40.mp3]"
+            ],
+            "guid": "zy<t$Bqbu=",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "white",
+                "白色"
+            ],
+            "guid": "M|Psnr2y$~",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "黑色",
+                "black [sound:google-d5cea53f-8a16e402-f5114df1-a5bd2e59-3e3e03a4.mp3]"
+            ],
+            "guid": "CbJdGh5Bnz",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "black",
+                "黑色"
+            ],
+            "guid": "IQ$&]RB5$F",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "有点儿",
+                "slightly/a little/somewhat [sound:google-0511722c-ea8abb45-5c5eb1d3-8e9c8589-42b66088.mp3]"
+            ],
+            "guid": "D)vJbadG_U",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "slightly/a little/somewhat",
+                "有点儿"
+            ],
+            "guid": "sH{7xu{?;h",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "贵",
+                "expensive [sound:google-a6cb1ec4-7b5e6d59-6ec60f0b-cf5f4bc4-7e112ec2.mp3]"
+            ],
+            "guid": "K-K`<XdiDl",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "expensive （中文）",
+                "贵"
+            ],
+            "guid": "MWueXF$Qyt",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "所以",
+                "so (explain results) [sound:google-0c06f6f8-de5d22ab-d2141100-f130475f-fc43f2cf.mp3]"
+            ],
+            "guid": "hb1b[>#RM1",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "so (explain results)",
+                "所以"
+            ],
+            "guid": "H0E1ISJc,p",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "两",
+                "two (pair) [sound:google-508b8f4c-b07b60a3-e971ed8e-30f59b8f-6427d55e.mp3]"
+            ],
+            "guid": "NxC0o^]4y^",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "自己",
+                "oneself [sound:google-22384208-cc49ee00-2148878b-e07f12d5-bd8dce30.mp3]"
+            ],
+            "guid": "b?bN^{**,C",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "oneself",
+                "自己"
+            ],
+            "guid": "eZZ1n:87VQ",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "送给",
+                "to give as a present/to send [sound:google-f1c11d13-84dadaef-edddd898-1dfa52f4-31192bc4.mp3]"
+            ],
+            "guid": "k-tQ)z!q4s",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to give as a present/to send",
+                "送给"
+            ],
+            "guid": "kF8I{Q@P_g",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "需要",
+                "to need (noun after) [sound:google-b8afa522-643d5d5c-ced48cf7-ebcb67d7-b1055ea3.mp3]"
+            ],
+            "guid": "j,e(ul^G/H",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to need (noun after)",
+                "需要"
+            ],
+            "guid": "rrhl{G67a_",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "必须",
+                "to need (verb after) [sound:google-4a35ef6a-838227eb-299eb64c-d1f15bd8-fd298d09.mp3]"
+            ],
+            "guid": "K<9;;6B}7c",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "段",
+                "classifier for periods of time or stories [sound:google-f86e7b5d-3015fdb4-9ea7a417-bacb93f8-dc577155.mp3]"
+            ],
+            "guid": "C6NX8R=$O)",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "classifier for periods of time or stories",
+                "段"
+            ],
+            "guid": "G$P^;M]jMl",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "时间",
+                "time [sound:google-88ce08d6-2b0aecf6-ede83561-acae3376-6d34dd0c.mp3]"
+            ],
+            "guid": "D1ct*:E-sh",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "time",
+                "时间"
+            ],
+            "guid": "J1P4:6|Hm)",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "越",
+                "to exceed/to surpass [sound:google-e066c53c-b6195448-0921f177-1178a80e-89275814.mp3]"
+            ],
+            "guid": "yF`b]993Rt",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to exceed/to surpass",
+                "越"
+            ],
+            "guid": "h_*^V>t9j_",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "无聊",
+                "boring [sound:google-1fa58d37-a1286d01-ebe6a85d-c8b08f77-fc9f17ec.mp3]"
+            ],
+            "guid": "kCy%Y>Q`:h",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "boring",
+                "无聊"
+            ],
+            "guid": "J6tJMN`Z?6",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "新",
+                "new [sound:google-54350908-1c661630-8f036a99-953d68e2-52917efc.mp3]"
+            ],
+            "guid": "fl/JV9FH.s",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "new",
+                "新"
+            ],
+            "guid": "Otqaf$i0bK",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to have to/must",
+                "必须"
+            ],
+            "guid": "M=>@UEHNi`",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "教",
+                "to teach [sound:google-ba67c681-acace1a5-18a98cc7-151da771-113012d4.mp3]"
+            ],
+            "guid": "Q3mh3vA>TT",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to teach",
+                "教"
+            ],
+            "guid": "htz/]dmz.-",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "发现",
+                "to find/to discover [sound:google-fadc7dd0-f4ded45f-9e9bbb65-d4be99f7-560d6fa0.mp3]"
+            ],
+            "guid": "IG8dnuLw!]",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to find/to discover",
+                "发现"
+            ],
+            "guid": "n=!=rMs:Q?",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "方法",
+                "method/way [sound:google-7723ddbf-0d29a89d-2fd93b7a-34d203d8-c6c54e59.mp3]"
+            ],
+            "guid": "h>5UZt&^x<",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "method/way",
+                "方法"
+            ],
+            "guid": "xYjE1,fVz.",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "一样",
+                "same (kind of thing) [sound:google-967267bc-f26126d0-86c5d1a0-0547d4e5-4c52373b.mp3]"
+            ],
+            "guid": "kl;fDD)YzO",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "same（kind of thing)",
+                "一样"
+            ],
+            "guid": "gVqVjKrta*",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "same（thing）",
+                "同"
+            ],
+            "guid": "KKTvq?=Z)n",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月12日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "让",
+                "to let/to permit [sound:google-5b5cb2cc-c4e9fc7c-5efde6b1-d0b442d2-1d3457cc.mp3]"
+            ],
+            "guid": "l[FQ?/69^`",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to let/to permit",
+                "让"
+            ],
+            "guid": "lQ+)q+,SN3",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "听",
+                "to listen/to hear [sound:google-11c0136a-c5fbf9a6-076625f2-052c7599-b148370a.mp3]"
+            ],
+            "guid": "b2H9Nync&~",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to listen/to hear",
+                "听"
+            ],
+            "guid": "Q>i#cG(pAV",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "歌",
+                "song [sound:google-6758dcc3-1b41c44c-6bc0c8d5-6787cab4-1a16eea1.mp3]"
+            ],
+            "guid": "D(v>Fb`&Z%",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "song",
+                "歌"
+            ],
+            "guid": "f.KZHa+o^E",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "新闻",
+                "news [sound:google-a3c42052-a260e436-a8fbd0bb-cd31a3ec-b7f756e2.mp3]"
+            ],
+            "guid": "J{%&sSpfG)",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "news",
+                "新闻"
+            ],
+            "guid": "lBDxXQ&$iK",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "讨论",
+                "discuss [sound:google-4ffe748a-bced8890-517e8119-6e3dca6d-b839a78d.mp3]"
+            ],
+            "guid": "N5wA^{2(Dm",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "discuss",
+                "讨论"
+            ],
+            "guid": "CgA=>/:tRF",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "关于",
+                "about/pertaining to [sound:google-5eaef5fe-56549b3c-2e441f36-ede62a61-145085ff.mp3]"
+            ],
+            "guid": "q}twlo,<9`",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "about/pertaining to",
+                "关于"
+            ],
+            "guid": "jV{HQfAz2>",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "问题",
+                "question [sound:google-745e3ab9-a08b4cda-3b05a5bf-1899e5a2-9fe44c79.mp3]"
+            ],
+            "guid": "OPASB>mp:g",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "question （中文)",
+                "问题"
+            ],
+            "guid": "GZK)[q7rvX",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "累",
+                "tired [sound:google-67652e30-29324f59-e54de632-b913697a-2d7d65eb.mp3]"
+            ],
+            "guid": "eXbmsOt+4l",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "tired",
+                "累"
+            ],
+            "guid": "J5kc9:Ij9<",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "问",
+                "to ask [sound:google-8303ed8b-966d59f1-b25247bf-c9a7f40f-d9bb4ea0.mp3]"
+            ],
+            "guid": "CY|CR;tbKO",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to ask（中文）",
+                "问"
+            ],
+            "guid": "nja6]{v]Yx",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "为什么",
+                "why? [sound:google-4f638609-aec15805-e8f2e7cd-79e85b04-7c53b9b1.mp3]"
+            ],
+            "guid": "l-YLY@,;Vg",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "晚上",
+                "evening/night [sound:google-a44bbc2c-1b9c6358-797392a7-7f1b9fb3-28244afa.mp3]"
+            ],
+            "guid": "bqq/*J>#]h",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "why? (中文）",
+                "为什么"
+            ],
+            "guid": "g[M`j[FRUM",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "evening/night",
+                "晚上"
+            ],
+            "guid": "PM*q|]3$6(",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "睡",
+                "to sleep [sound:google-8a317a0b-3abab8cc-8ac33fae-52de0511-a5155fda.mp3]"
+            ],
+            "guid": "B6UN3dv&1F",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to sleep",
+                "睡"
+            ],
+            "guid": "k.S{]`y{6X",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "晚",
+                "late [sound:google-cfc3b98a-770650e4-c23a0b66-09a312e4-21ed0cf4.mp3]"
+            ],
+            "guid": "q4DONbIFAX",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "late",
+                "晚"
+            ],
+            "guid": "y/Hatvwnw_",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "奇怪",
+                "strange/odd [sound:google-2ed6a354-ac2aa299-7b5b8796-349e0a65-6a4c5afc.mp3]"
+            ],
+            "guid": "QRvt,A|*[s",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "strange/odd",
+                "奇怪"
+            ],
+            "guid": "oOUx$1A`:m",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "想起来",
+                "to remember [sound:google-97b73a86-6249ebae-41b1c211-cb7b2d72-f4112960.mp3]"
+            ],
+            "guid": "p_j]L^]^;(",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to remember",
+                "想起来"
+            ],
+            "guid": "reK`rWNPFD",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "可是",
+                "but [sound:google-de66f9b5-b4587396-ea9c4897-d7d9db4c-8621ada9.mp3]"
+            ],
+            "guid": "M/nY4&v75(",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "but（中文）",
+                "可是"
+            ],
+            "guid": "Ar>+TnJ)7g",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "忘记",
+                "to forget [sound:google-f143aff1-d6a4fb0f-a76b550b-936a8084-592b667b.mp3]"
+            ],
+            "guid": "PP/u7+Je^T",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to forget",
+                "忘记"
+            ],
+            "guid": "K>$Kggjp-3",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "什么",
+                "what [sound:google-96bdbc42-ea4dee81-63b470c4-cbe2df2b-3ecd48f2.mp3]"
+            ],
+            "guid": "G)7.0+MRo`",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "what",
+                "什么"
+            ],
+            "guid": "c8)C@^k41Y",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "事情",
+                "affair/thing/buisness/ [sound:google-e74959d6-319a82e4-7362f910-e36e5f20-2f49d0be.mp3]"
+            ],
+            "guid": "gBZ{jP0<sl",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "affair/thing/buisness/",
+                "事情"
+            ],
+            "guid": "ocAcZiiV9|",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "早",
+                "early [sound:google-f9caa072-ed4e8c6d-925243f6-78f0216a-d9747ddd.mp3]"
+            ],
+            "guid": "k?Mg*GDJ^r",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "床",
+                "bed [sound:google-0f39db35-469dc866-2e15e289-9d380a6c-ffa50e8a.mp3]"
+            ],
+            "guid": "x`[cs(<!FR",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "bed",
+                "床"
+            ],
+            "guid": "A6A/Oeay4}",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "留学生",
+                "foreign exchange student [sound:google-fc0c58e3-6897c71c-635a289f-6205bc65-95fe8c1a.mp3]"
+            ],
+            "guid": "m<2)RaSfp+",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "foreign exchange student",
+                "留学生"
+            ],
+            "guid": "IF,=drU<J[",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "找",
+                "to look for&nbsp; [sound:google-fe6a0405-2e8b0c5f-9181318f-f766a171-6cb46819.mp3]"
+            ],
+            "guid": "oIn9os}FnD",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to look for&nbsp;",
+                "找"
+            ],
+            "guid": "rl:}SZy}T^",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日",
+                "question_for_teacher"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "知道",
+                "to know [sound:google-f61ff746-f8bb7b77-d2b87f24-39f08b8a-993eaef8.mp3]"
+            ],
+            "guid": "F=(L0-BugU",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to know",
+                "知道"
+            ],
+            "guid": "C@)q>H4%Le",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "打工",
+                "to work a temporary or casual job [sound:google-d19dd469-0ccc80c8-fe589033-42a861e8-72bda10b.mp3]"
+            ],
+            "guid": "j~H)oc0;H,",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "过",
+                "(experienced action marker) [sound:google-f3472b75-d0c38890-05c877e5-c914b362-9a22e7db.mp3]"
+            ],
+            "guid": "f`@.Ahv)We",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "(experienced action marker)",
+                "过"
+            ],
+            "guid": "KwWzxzLE^U",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "怎么",
+                "how [sound:google-4c49775f-4ae0b9d0-77675ef3-eaab5e0c-636ad8f5.mp3]"
+            ],
+            "guid": "DcAutHqy@G",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "how",
+                "怎么"
+            ],
+            "guid": "xyJrRahhXh",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "英语",
+                "English [sound:google-2e6a79a6-69f66952-717dd032-cbcb3c36-43247c49.mp3]"
+            ],
+            "guid": "z,:9y0q{v3",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "English",
+                "英语"
+            ],
+            "guid": "biR^bxL-n2",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "互相",
+                "mutually [sound:google-6386b85d-91eb0e9e-946612e6-2f8092bf-4087e567.mp3]"
+            ],
+            "guid": "gtwJjo-jJ/",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "mutally",
+                "互相"
+            ],
+            "guid": "NteS4%tcYk",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "认识",
+                "to be familiar with/to get acquainted with sb [sound:google-c9e3884c-08eb3b76-b7b3c124-c59cda47-b9b06020.mp3]"
+            ],
+            "guid": "d%edvjG>A|",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to be familiar with/to get acquainted with sb",
+                "认识"
+            ],
+            "guid": "ofF<M4<,]Z",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "主意",
+                "idea [sound:google-1411bdbd-0894870a-98668a11-7f17da51-d1a7700e.mp3]"
+            ],
+            "guid": "jl0x]A<xi)",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "idea",
+                "主意"
+            ],
+            "guid": "J}qG3;SJk,",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "非常",
+                "very/extraordinary [sound:google-4899244a-cd826f3f-050bda7d-6a08f216-c2503ae5.mp3]"
+            ],
+            "guid": "DGi?SPc[ie",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "very/extraordinary",
+                "非常"
+            ],
+            "guid": "iZXY_2Mwp.",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "到了",
+                "finally/in the end/has arrived [sound:google-2583a15f-f6a5bba0-8f7539ea-9271e524-f82d5899.mp3]"
+            ],
+            "guid": "Pn,%|^7d:Q",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "finally/in the end/has arrived",
+                "到了"
+            ],
+            "guid": "N_eSd__x>E",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "周末",
+                "weekend [sound:google-898f4a18-9fc6c5ec-ce097151-95ecd367-2f018038.mp3]"
+            ],
+            "guid": "gPT~/+tgc=",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "weekend",
+                "周末"
+            ],
+            "guid": "rJS0;07P0}",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "不行",
+                "be out of the question/won't do/be no good [sound:google-d80df130-5b630d18-0e01fb2e-17bac32e-f9d2ceb0.mp3]"
+            ],
+            "guid": "e(Kp&#Yj?%",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "be out of the question/won't do/be no good",
+                "不行"
+            ],
+            "guid": "c5j|xKg2fE",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "短",
+                "short [sound:google-499d01a3-c5665c9b-563e30c9-40d4980e-b02cfe20.mp3]"
+            ],
+            "guid": "w/NE.,+_t>",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "short",
+                "短"
+            ],
+            "guid": "uA$}rI{qCs",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "打球",
+                "to play ball [sound:google-4a6e344c-4aa9e8fe-db0923f7-785a3d5b-a3502c09.mp3]"
+            ],
+            "guid": "bp,%m1WB2<",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to play ball",
+                "打球"
+            ],
+            "guid": "IKt@+2kAkl",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "跑步",
+                "to run/to jog [sound:google-51ff637f-326f1131-21fca622-bbf36ed3-7f14d02f.mp3]"
+            ],
+            "guid": "O8ASih[z^J",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to run/to jog",
+                "跑步"
+            ],
+            "guid": "lkN9kf+EN]",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "天气",
+                "weather [sound:google-88eaa857-839120d4-c5f866f4-c45c74ad-b9714618.mp3]"
+            ],
+            "guid": "b-*fbk!a2<",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "weather",
+                "天气"
+            ],
+            "guid": "hFx6$.lDde",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "语言",
+                "language [sound:google-27893977-232141a3-cea79c4f-e0f86ed3-50377868.mp3]"
+            ],
+            "guid": "vc1qw|.W?y",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "language",
+                "语言"
+            ],
+            "guid": "sN,~M-Nv+.",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "商店",
+                "store/shop [sound:google-df14ad92-7df81934-a8081661-a173faad-187c6ec4.mp3]"
+            ],
+            "guid": "xqm^(BZdzx",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "store/shop",
+                "商店"
+            ],
+            "guid": "B2J<7sz=p5",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "呢",
+                "（friendly casual tone)/what about .... /short version where [sound:google-005328d7-6c3cfa3a-79db470d-b310068f-a34216a8.mp3]"
+            ],
+            "guid": "t<)0!ph6QV",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "（friendly casual tone)/what about .... /short version where",
+                "呢"
+            ],
+            "guid": "ob?+:;Iy+d",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "还是",
+                "had better [sound:google-c56c583e-9d61c696-7b15506b-36286234-87561dd1.mp3]"
+            ],
+            "guid": "QM%*%&,6;(",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "had better",
+                "还是"
+            ],
+            "guid": "b2P3<>wKB_",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日",
+                "question_for_teacher"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "吧",
+                "(modal particle indicating suggestion or surmise)/...right?/...OK? [sound:google-da43a808-271ef35b-362615c5-b74358b4-d444154b.mp3]"
+            ],
+            "guid": "j9^1K47^Y?",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "(modal particle indicating suggestion or surmise)/...right?/...OK?",
+                "吧"
+            ],
+            "guid": "rN2Kp;^uu_",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "次",
+                "classifier for enumerated events: time [sound:google-ad2a6c09-1e2c7d69-bfc6c967-d369e450-1d6b7624.mp3]"
+            ],
+            "guid": "o`DJN:$`y>",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "classifier for enumerated events: time",
+                "次"
+            ],
+            "guid": "D@~s*uMFu/",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "手术",
+                "surgery/operation [sound:google-f7fd329a-96100b98-a7c7252c-1657f7c5-27c4e6d9.mp3]"
+            ],
+            "guid": "lE)>))YKc*",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "operation/surgery",
+                "手术"
+            ],
+            "guid": "H#k)kwWW>r",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "后",
+                "back/behind/after/later [sound:google-cbffb5d8-4f3072a9-97760dd3-0d2e3975-8421e354.mp3]"
+            ],
+            "guid": "cXd.W[Hc`Q",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "back/behind/after/later",
+                "后"
+            ],
+            "guid": "QEg3s=iW?*",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to need (verb after)",
+                "必须"
+            ],
+            "guid": "GnUD(oOZZS",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月15日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "把",
+                "particle marking the following noun as a direct object [sound:google-69101c7c-d55cfb1b-e9cf5cee-086750a1-8e7da0f4.mp3]"
+            ],
+            "guid": "Jv.7Zo;g{Q",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "particle marking the following noun as a direct object",
+                "把"
+            ],
+            "guid": "hyI+57uxMW",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "海绵",
+                "sponge [sound:google-58b128da-8a9d075e-a03a8f17-71bde02a-b932484e.mp3]"
+            ],
+            "guid": "oP(uj1r=[t",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sponge",
+                "海绵"
+            ],
+            "guid": "rUOjnNW)uP",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "一块",
+                "one block/one piece/one (unit of money) [sound:google-2f42f73b-736a6054-e9324267-bc02c95d-b738ddb4.mp3]"
+            ],
+            "guid": "l=q=U8f;v?",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "block/one piece/one (unit of money)",
+                "一块"
+            ],
+            "guid": "Q1X*SCI?]]",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "忘",
+                "to forget/to neglect [sound:google-8cc59048-914f0eb5-bc706899-09e2acc8-8c444849.mp3]"
+            ],
+            "guid": "q-%6f2fln0",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to forget/to neglect",
+                "忘"
+            ],
+            "guid": "d?9@*Xe$,8",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "糟糕",
+                "terrible/bad [sound:google-45bb7dd0-b2a0030b-36961fe6-620467f1-bb855e62.mp3]"
+            ],
+            "guid": "uoULqjC=vO",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "terrible/bad",
+                "糟糕"
+            ],
+            "guid": "Pl-+!Xju>@",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "疼",
+                "it hurts/pain [sound:google-414ba180-7cc5ee94-0be92bf8-9c0770ce-e7cc124f.mp3]"
+            ],
+            "guid": "m.-a`>vzSW",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "it hurts/pain",
+                "疼"
+            ],
+            "guid": "GG]FR6ewnX",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "渴",
+                "thirsty [sound:google-2a5c897e-d7d1d7dc-92edee20-412fdbf3-a530262b.mp3]"
+            ],
+            "guid": "E+sS-8;x2V",
+            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "thirsty",
+                "渴"
+            ],
+            "guid": "qm-@}xVN53",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "two (pair)",
+                "两"
+            ],
+            "guid": "G4AW<yJu7_",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to work a temporary or casual job",
+                "打工"
+            ],
+            "guid": "tp%D]A0dKC",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月17日"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dress",
+                "裙子"
+            ],
+            "guid": "jQEh}:h(NC",
+            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "tags": [
+                "2022年8月13日"
+            ]
+        }
+    ]
+}
